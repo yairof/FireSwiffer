@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>AD_UNIT_ID_FOR_BANNER_TEST</key>
+	<string>ca-app-pub-3940256099942544/2934735716</string>
+	<key>AD_UNIT_ID_FOR_INTERSTITIAL_TEST</key>
+	<string>ca-app-pub-3940256099942544/4411468910</string>
+	<key>CLIENT_ID</key>
+	<string>691994544059-qkn5g55l8vkmfrknefr8uv2mll7l0h0p.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.691994544059-qkn5g55l8vkmfrknefr8uv2mll7l0h0p</string>
+	<key>API_KEY</key>
+	<string>AIzaSyAfquQ-FwJHp15OMV8U8fiB_FQ7hD8Nv8E</string>
+	<key>GCM_SENDER_ID</key>
+	<string>691994544059</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.training.FireSwiffer</string>
+	<key>PROJECT_ID</key>
+	<string>fireswiffer-65edf</string>
+	<key>STORAGE_BUCKET</key>
+	<string>fireswiffer-65edf.appspot.com</string>
+	<key>IS_ADS_ENABLED</key>
+	<true></true>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<false></false>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:691994544059:ios:cdb9886efb521811</string>
+	<key>DATABASE_URL</key>
+	<string>https://fireswiffer-65edf.firebaseio.com</string>
+</dict>
+</plist>

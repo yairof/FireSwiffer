@@ -1,0 +1,6 @@
+framework module Pods_FireSwifferUITests {
+  umbrella header "Pods-FireSwifferUITests-umbrella.h"
+
+  export *
+  module * { export * }
+}
